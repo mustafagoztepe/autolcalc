@@ -1,1 +1,1 @@
-# autolcalc
+# autolcalc WHMCS Module
